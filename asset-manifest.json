@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/FULLSTACK/static/css/main.20c56895.css",
+    "main.js": "/FULLSTACK/static/js/main.89ba85c5.js",
+    "static/js/787.62644948.chunk.js": "/FULLSTACK/static/js/787.62644948.chunk.js",
+    "static/media/h-slider2.png": "/FULLSTACK/static/media/h-slider2.888c8364ce683e45ce80.png",
+    "static/media/h-slider8.jpg": "/FULLSTACK/static/media/h-slider8.11f111b929a671dae3aa.jpg",
+    "static/media/contact_bg1.jpg": "/FULLSTACK/static/media/contact_bg1.eaa10a9ad6bbb0053938.jpg",
+    "static/media/h-slider6.jpg": "/FULLSTACK/static/media/h-slider6.aad1ce17710d06746e46.jpg",
+    "static/media/h-slider4.jpg": "/FULLSTACK/static/media/h-slider4.155e376bfe9b39ffa91f.jpg",
+    "static/media/h-slider7.jpg": "/FULLSTACK/static/media/h-slider7.4f64d2bc24f6db01c333.jpg",
+    "static/media/tablebookbg-img2.jpg": "/FULLSTACK/static/media/tablebookbg-img2.a60c7746af8589deb6c5.jpg",
+    "static/media/Mbg-img2.jpg": "/FULLSTACK/static/media/Mbg-img2.403e00a272e3f2481fd5.jpg",
+    "static/media/h-slider3.jpg": "/FULLSTACK/static/media/h-slider3.2bb5643849bb9f53dbd6.jpg",
+    "static/media/feedbackbg-1.jpg": "/FULLSTACK/static/media/feedbackbg-1.258ed151d24d611894b5.jpg",
+    "static/media/Coffe-HI1.jpg": "/FULLSTACK/static/media/Coffe-HI1.5259d740825e3ee13352.jpg",
+    "static/media/a-bg-3.jpg": "/FULLSTACK/static/media/a-bg-3.7701766f7ed39f447f38.jpg",
+    "static/media/A-bg-1.jpg": "/FULLSTACK/static/media/A-bg-1.f4d8435017fbfb3be147.jpg",
+    "static/media/A-bg-2.jpg": "/FULLSTACK/static/media/A-bg-2.cf9259e3f872564bddd0.jpg",
+    "static/media/title-img-1.jpg": "/FULLSTACK/static/media/title-img-1.3ad4a3786227ad72a001.jpg",
+    "static/media/Ebg-img-2.png": "/FULLSTACK/static/media/Ebg-img-2.f18bbd57262169215b0a.png",
+    "static/media/revicons.eot": "/FULLSTACK/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/FULLSTACK/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/FULLSTACK/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/FULLSTACK/index.html",
+    "main.20c56895.css.map": "/FULLSTACK/static/css/main.20c56895.css.map",
+    "main.89ba85c5.js.map": "/FULLSTACK/static/js/main.89ba85c5.js.map",
+    "787.62644948.chunk.js.map": "/FULLSTACK/static/js/787.62644948.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20c56895.css",
+    "static/js/main.89ba85c5.js"
+  ]
+}
